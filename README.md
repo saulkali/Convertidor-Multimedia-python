@@ -1,5 +1,4 @@
 # Convertidor-Multimedia-python
-# 26 DE MARZO DEL 2022
+# 27 DE MARZO DEL 2022
 
-1. agregando hilos para las descargas en paralelo
-
+1. agrengando datos del video en la tablawidget
