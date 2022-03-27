@@ -1,7 +1,5 @@
 # Convertidor-Multimedia-python
-# 25 DE MARZO DEL 2022
+# 26 DE MARZO DEL 2022
 
-1. agregando nueva interface
-2. conectando acciones de los componentes
-
+1. agregando hilos para las descargas en paralelo
 

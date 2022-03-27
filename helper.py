@@ -19,3 +19,6 @@ def singleton(cls):
         return instances[cls]
 
     return wrap
+
+def exists_dir(path):
+    return os.path.isdir(path)
